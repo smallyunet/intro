@@ -1,1 +1,3 @@
-My nickname is smallyu.
+
+Blog: https://smallyu.net
+
