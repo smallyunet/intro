@@ -9,7 +9,9 @@ GItHub: <https://github.com/smallyunet>
 
 WeiBo: <https://weibo.com/u/5770083884>
 
-YuQue: <https://www.yuque.com/smallyu>
+YuQue: <https://www.yuque.com/smallyu?tab=books>
+
+Medium: <https://medium.com/@smallyu_2021>
 
 LeetCode: <https://leetcode.cn/u/smallyu/>
 
