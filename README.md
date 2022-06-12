@@ -1,3 +1,3 @@
 
-Blog: https://smallyu.net
+Blog: <https://smallyu.net>
 
