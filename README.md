@@ -27,4 +27,4 @@ Hello, my nickname is smallyu, this is my profile:
 
 - Gitee: <https://gitee.com/smallyunet>
 
-You can email hello@smallyu.net
+You can email <hello@smallyu.net>
