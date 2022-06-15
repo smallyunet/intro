@@ -1,17 +1,17 @@
 
 Hello, my nickname is smallyu, I am Chinese. 
 
-I usually use this avatar:
+### I usually use this avatar:
 
-<img url="/avatar.jpg">
+<img src="avatar.jpg" width="100px">
 
-These are all links relative to my profile:
+### These are all links relative to my profile:
 
 Blog: <https://smallyu.net>
 
-YouTube Channel: <https://www.youtube.com/channel/UCzW5Bb8wiEw2bFcJkuHhDxA>
-
 GItHub: <https://github.com/smallyunet>
+
+YouTube Channel: <https://www.youtube.com/channel/UCzW5Bb8wiEw2bFcJkuHhDxA>
 
 WeiBo: <https://weibo.com/u/5770083884>
 
