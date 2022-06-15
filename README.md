@@ -1,5 +1,11 @@
 
-Hello, I am Chinese, and my nickname is smallyu, this is my profile:
+Hello, my nickname is smallyu, I am Chinese. 
+
+I usually use this avatar:
+
+<img url="/avatar.jpg">
+
+These are all links relative to my profile:
 
 Blog: <https://smallyu.net>
 
