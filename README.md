@@ -17,13 +17,13 @@ WeiBo: <https://weibo.com/u/5770083884>
 
 YuQue: <https://www.yuque.com/smallyu?tab=books>
 
+Twitter: <https://twitter.com/smallyu2021>
+
 Medium: <https://medium.com/@smallyu_2021>
 
 LeetCode: <https://leetcode.cn/u/smallyu/>
 
 ZhiHu: <https://www.zhihu.com/people/duo-yun-zhuan-qing-hower>
-
-Twitter: <https://twitter.com/smallyu2021>
 
 Instagram: <https://www.instagram.com/smallyu_2021/>
 
