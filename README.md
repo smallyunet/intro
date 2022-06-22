@@ -25,6 +25,10 @@ Instagram: <https://www.instagram.com/smallyu_2021/>
 
 ZhiHu: <https://www.zhihu.com/people/smallyunet>
 
+JueJin: <https://juejin.cn/user/110411051708248>
+
+segmentfault: <https://segmentfault.com/u/smallyu>
+
 Pinterest: <https://www.pinterest.com/devwangyu/_saved/>
 
 Medium: <https://medium.com/@smallyu_2021>
