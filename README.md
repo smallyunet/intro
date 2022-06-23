@@ -9,7 +9,7 @@ Hello, my nickname is smallyu, I am Chinese.
 
 Blog: <https://smallyu.net>
 
-GItHub: <https://github.com/smallyunet>
+GitHub: <https://github.com/smallyunet>
 
 YouTube Channel: <https://www.youtube.com/channel/UCzW5Bb8wiEw2bFcJkuHhDxA>
 
