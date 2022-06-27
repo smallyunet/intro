@@ -13,9 +13,9 @@ GItHub：<https://github.com/smallyunet>
 
 油管频道：<https://www.youtube.com/channel/UCzW5Bb8wiEw2bFcJkuHhDxA>
 
-微博：<https://weibo.com/u/5770083884>
-
 语雀：<https://www.yuque.com/smallyu?tab=books>
+
+微博：<https://weibo.com/u/5770083884>
 
 推特：<https://twitter.com/smallyu2021>
 
@@ -32,4 +32,7 @@ Instagram：<https://www.instagram.com/smallyu_2021/>
 Pinterest：<https://www.pinterest.com/devwangyu/_saved/>
 
 Medium：<https://medium.com/@smallyu_2021>
+
+领英: <https://www.linkedin.com/in/yu-wang-a629591bb/>
+
 

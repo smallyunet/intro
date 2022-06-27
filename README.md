@@ -13,9 +13,9 @@ GitHub: <https://github.com/smallyunet>
 
 YouTube Channel: <https://www.youtube.com/channel/UCzW5Bb8wiEw2bFcJkuHhDxA>
 
-WeiBo: <https://weibo.com/u/5770083884>
-
 YuQue: <https://www.yuque.com/smallyu?tab=books>
+
+WeiBo: <https://weibo.com/u/5770083884>
 
 Twitter: <https://twitter.com/smallyu2021>
 
@@ -32,4 +32,7 @@ segmentfault: <https://segmentfault.com/u/smallyu>
 Pinterest: <https://www.pinterest.com/devwangyu/_saved/>
 
 Medium: <https://medium.com/@smallyu_2021>
+
+LinkedIn: <https://www.linkedin.com/in/yu-wang-a629591bb/>
+
 
