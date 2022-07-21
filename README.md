@@ -11,15 +11,15 @@ Blog: <https://smallyu.net>
 
 GitHub: <https://github.com/smallyunet>
 
+YouTube Channel: <https://www.youtube.com/channel/UCzW5Bb8wiEw2bFcJkuHhDxA>
+
 Telegram Channel: <https://t.me/smallyushare>
 
-YouTube Channel: <https://www.youtube.com/channel/UCzW5Bb8wiEw2bFcJkuHhDxA>
+YuQue: <https://www.yuque.com/smallyu?tab=books>
 
 Twitter: <https://twitter.com/smallyu2021>
 
 WeiBo: <https://weibo.com/u/5770083884>
-
-YuQue: <https://www.yuque.com/smallyu?tab=books>
 
 LeetCode: <https://leetcode.cn/u/smallyu/>
 
